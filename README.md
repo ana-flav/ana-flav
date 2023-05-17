@@ -1,6 +1,6 @@
 # 🎸 About Me:
-💻 I'm science computer student<br>🖥️ I'm currently interning at a technology agency in the public sector<br><br>⚡ I’m currently learning Django, Python and FastApi<br><br>
-
+💻 I'm science computer student<br>🖥️ I'm currently interning at a technology agency in the public sector<br><br>⚡
+I’m currently learning Django, Python and FastApi<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afmp.p) 

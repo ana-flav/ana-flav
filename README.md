@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎸 About Me:
 💻 I'm science computer student<br>🖥️ I'm currently interning at a technology agency in the public sector<br><br>⚡ I’m currently learning Django, Python and FastApi<br><br>
 
 

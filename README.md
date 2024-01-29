@@ -26,9 +26,6 @@
 
 ###
 
-<p align="left">- 👩‍💻I’m a computer science student<br>- 📚 I'm currently learning Django and FastApi<br>- ⚡In my free time I like to study english and programming as well.</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 

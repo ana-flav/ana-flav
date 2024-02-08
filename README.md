@@ -26,6 +26,9 @@
 
 ###
 
+- 🌱 I’m currently learning Golang
+- 
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
